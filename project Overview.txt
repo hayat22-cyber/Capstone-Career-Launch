@@ -1,0 +1,27 @@
+roject Overview
+
+This capstone project demonstrates data analysis, preprocessing, and machine learning modeling on three real-world datasets:
+
+Supermarket Sales Analysis
+
+Analyze sales data to predict prices of items
+
+Feature correlation, model training, predictions
+
+House Price Prediction
+
+Regression problem predicting house prices
+
+Linear Regression & Random Forest used
+
+Feature importance and metrics evaluated
+
+Customer Churn Prediction
+
+Classification problem identifying likely customers to churn
+
+Random Forest Classifier trained
+
+Accuracy, confusion matrix, feature importance, and sample predictions
+
+The project emphasizes data cleaning, preprocessing, model training, evaluation, and visualization, providing a complete pipeline from raw data to predictive insights.

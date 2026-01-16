@@ -1,0 +1,25 @@
+Project Requirements
+
+Software & Libraries
+
+Python 3.x
+
+Jupyter Notebook
+
+Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, pickle
+
+Hardware/Environment
+
+Any PC or Laptop capable of running Jupyter Notebook
+
+Recommended: 4GB+ RAM
+
+Files Needed
+
+customer_churn.csv
+
+supermarket.csv
+
+house_price.csv
+
+Notebook(s) with models and EDA
